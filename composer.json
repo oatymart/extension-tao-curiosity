@@ -16,12 +16,19 @@
     "license" : [
         "GPL-2.0"
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/oatymart/extension-tao-curiosity.git"
+        }
+    ],
     "extra" : {
         "tao-extension-name" : "taoCuriosity"
     },
     "minimum-stability" : "dev",
     "require": {
-        "oat-sa/oatbox-extension-installer": "dev-master"
+        "oat-sa/oatbox-extension-installer": "dev-master",
+        "oatymart/extension-tao-curiosity" : "dev-master"
     },
     "autoload" : {
         "psr-4" : {
