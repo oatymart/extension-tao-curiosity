@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoCuriosity_main" name="taoCuriosity" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoCuriosity_main" name="taoCuriosity" url="/taoCuriosity/TaoCuriosity/index" />
+			<section id="taoCuriosity_other" name="Template" url="/taoCuriosity/TaoCuriosity/templateExample" />
+		</sections>
+	</structure>
+</structures>
